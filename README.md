@@ -25,10 +25,10 @@ This is a task manager website that allows users to create, view, edit and delet
 ## DEMO
 
 Desktop demo screenshot  
-<img src="" alt="desktop screenshot" />
+<img src="https://github.com/Abdulrazaq-abunuqta/KnbanBord/blob/main/pogctData/labtop.png" alt="desktop screenshot" />
 
 Mobile demo screenshot  
-<img src="" alt="mobile screenshot" width="400px" />
+<img src="https://github.com/Abdulrazaq-abunuqta/KnbanBord/blob/main/pogctData/phone.png" alt="mobile screenshot" width="400px" />
 
 ## [LIVE DEMO](https://knban-bord-project.vercel.app/) <a href="https://knban-bord-project.vercel.app">Visit project</a> 
 
