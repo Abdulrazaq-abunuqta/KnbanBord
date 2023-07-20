@@ -1,0 +1,68 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  text-decoration: none;
+  border-radius: 5px;
+  border: none;
+  scroll-behavior: smooth;
+  user-select: none;
+}
+
+:root {
+  --main-color: #009578;
+  --red-color: #f44336;
+  --text-color: #fff;
+  --action-color: #0b3a63;
+  --2px: 0.125rem;
+  --4px: 0.25rem;
+  --8px: 0.5rem;
+  --10px: 0.625rem;
+  --12px: 0.75rem;
+  --14px: 0.875rem;
+  --16px: 1rem;
+  --18px: 1.125rem;
+  --20px: 1.25rem;
+  --24px: 1.5rem;
+  --30px: 1.875rem;
+}
+
+body {
+  font-family: "Rubik", sans-serif;
+  line-height: 1;
+  font-weight: 400;
+  color: var(--text-color);
+  background-color: var(--main-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  height: 100vh;
+}
+
+input,
+button {
+  padding: 0.2rem;
+  height: 3.2rem;
+  border-radius: 0.4rem;
+  border: none;
+  width: 100%;
+  cursor: pointer;
+}
+
+a {
+  color: var(--text-color);
+}
+
+/* Action */
+.input-task:focus {
+  outline: none;
+}
+
+a:hover {
+  color: var(--action-color);
+}
+
+button:hover {
+  opacity: 0.5;
+}
