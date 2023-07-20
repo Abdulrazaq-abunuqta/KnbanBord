@@ -30,7 +30,7 @@ Desktop demo screenshot
 Mobile demo screenshot  
 <img src="" alt="mobile screenshot" width="400px" />
 
-## [LIVE DEMO](https://knban-bord-project.vercel.app/)
+## [LIVE DEMO](https://knban-bord-project.vercel.app/) <a hrf="https://knban-bord-project.vercel.app/">Links <a/>
 
 ### This website is a test project for the [Albonyan Almarsos](https://www.albonyanalmarsos.org/) programming competition
 
